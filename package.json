@@ -1,0 +1,14 @@
+{
+    "name": "invfirelfy",
+    "version": "1.0.0",
+    "description": "Invoices to firelfy",
+    "author": "xzaz",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.16.1"
+    }
+  }
+  
